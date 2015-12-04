@@ -1,5 +1,4 @@
 /.settings
 *.TODO
-bin
-bld
-packages
+*.mo
+*.swp
